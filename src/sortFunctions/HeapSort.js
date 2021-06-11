@@ -12,7 +12,8 @@ export async function* HeapSort(array, swap, highlight, markSort) {
   }
 
   markSort(0);
-
+//heap sort uses max heap to sort he elements in descending order. 
+  // need a min heap, in case of ascending 
   async function* maxHeap(i) {
     const left = 2 * i + 1;
     const right = 2 * i + 2;
