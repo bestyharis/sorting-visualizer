@@ -5,7 +5,7 @@ import{c as e,d as t,m as r,s as n,r as a,A as l,a as o,T as i,b as s,q as c,B a
   position: absolute;
   bottom: -40px;
   width: 100%;
-`;function T(){return a.createElement(I,null,"Made with ♥ by ",a.createElement("a",{href:"https://github.com/sadanandpai/"},"Sadanand Akshay Pai"))}const M=c.div`
+`;function T(){return a.createElement(I,null,"Made with ♥ by ",a.createElement("a",{href:"https://github.com/bestyharis/"},"Besty Haris"))}const M=c.div`
   font-size: 2rem;
   display: flex;
   align-items: center;
